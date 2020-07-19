@@ -1,1 +1,8 @@
-
+.bg1 {
+  /* The image used */
+  background-image: url(../webportfolio/img/3.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
